@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<title>Резюмешка</title>
+<style>
+
+	{cursor: url(http://zornet.ru/Aben/Abryn/cur116.cur), progress !important;}
+a {cursor: url(http://zornet.ru/Aben/Abryn/cur117.cur), progress !important;}
+   body {
+    background: url(https://kartinkinaden.ru/uploads/posts/2020-07/1593745126_49-p-svetlie-foni-s-gradientom-57.jpg) repeat-y, 
+                #fc0 url(https://kartinkinaden.ru/uploads/posts/2020-07/1593745126_49-p-svetlie-foni-s-gradientom-57.jpg) repeat-y 100% 0;
+   }
+#wrapper{ /* Оболочка страницы сайта */
+  width: 900px; /* Меняется ширина страницы */
+  margin: 0 auto;
+  
+}
+h1{ 
+  margin:0 0 10px 20px; 
+  color:#000000; 
+ 
+}
+#header{
+position:relative; 
+  height: 40px; /* Высота шапки */
+  margin-bottom: 5px; 
+  box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
+}
+#footer{
+position:relative; 
+  height: 40px; /* Высота шапки */
+ 
+  box-shadow: rgba(0,0,0,10.5) 0px 1px 3px; /* Тень */
+}
+
+.fon{ /* Номер телефона */
+  float:left; 
+  margin:10px 0 0 20px;
+}
+.mail{ /* Адрес E-mail */
+  float:right  ;
+ margin:10px 20px 20px 0px;
+}
+ h1 {
+    font-family: 'Courier New', Times, serif; 
+    font-size: 230%; 
+
+ } 
+   p {
+    font-family: Courier New, Arial, Helvetica, sans-serif; 
+    font-size: 13pt; 
+
+
+</style>
+
+</head>
+<body>
+  <div id="wrapper"> 
+    <div id="header"> 
+
+    
+    
+       <h1>TaNik</h1>
+      
+<main> 
+	   Всем привет!
+       <p> Добро пожаловать на мой первый сайт. Ещё недавно я понятия не имела, кто такой верстальщик, а теперь я нашла тренажёры по HTML и CSS. </p> 
+  
+<hr /> 
+       Обо мне 
+       <p> Как можно заметить, я профессионал своего дела и хорошо верстаю сайты, но не смотря на это я стараюсь развиваться во всем, что связанно с программированием и учить новые для себя языки чтоб знать как можно больше! 
+     </p>
+<hr />
+       Навыки
+       <p> Я только начала глубоко погружаться в мир программирования, но уже разбираюсь в общих моментах связанных с работой ПК, знакома с HTML и CSS. </p>
+<hr />
+       Хобби
+       <p>В свободное время от учебы и работы я провожу за фотографией, просмотром аниме, рисунком и йогой.</p>
+</main>
+
+<p>
+ 
+
+	<img src="https://images.unsplash.com/photo-1613937652492-d4db2bf2f5f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80" alt="фото" width="100%"
+</p>
+
+<div class="clear"></div>
+<div id="footer">
+      <p1 class="fon"><strong>Телефон: 000-00-00</strong> </p1>
+      <p1 class="mail"><strong>E-mail: Tata@gmail.com</strong></p1>
+
+    </div>
+    <a href="https://www.instagram.com/" target="_blank"><img style="position:fixed;left:10px;bottom: 30px; width:30px; height:30px;" src="https://images.squarespace-cdn.com/content/v1/53eb49bde4b04bc9767239e0/1566387372984-P9J5CNNU7LTAJBK5XDLP/ke17ZwdGBToddI8pDm48kMcasFeFiYj7HySL7QNgDnB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmRQNM_fBLtY_mX-U40H1LpMwJ_QblfGoo669mlw51nZuD0eaYfAT2tYy38h1ybf2-/instagram-png-instagram-png-logo-1455.png" target="_blank"></a>
+
+    <a href="https://www.facebook.com/" target="_blank"><img style="position:fixed;left:10px;bottom: 60px; width:30px; height:30px;" src="https://pngicon.ru/file/uploads/FaceBook_512x512.png" target="_blank"></a>
+  </div>
+ </body> 
+ </html>
